@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 微軟正黑體;
+    box-sizing: border-box;
+}
+
+.row {
+    margin: 0;
+}
+
+nav {
+    background-color: #ffffff88;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.carousel-item img{
+    height: 60vw;
+    object-fit: cover;
+}
+
+h1{
+    margin: 30px auto 15px;
+    text-align: center;
+}
+
+.card {
+    margin: 10px 0;
+
+    img {
+        height: 400px;
+        object-fit: cover;
+    }
+}
